@@ -2,21 +2,28 @@
     "users": [
       {
         "id":1,
-        "username":"manolo",
-        "state":true,
-          "deck":[1,2,3,4,5]
+        "username":"Skipper",
+          "deck":[664,25,102,201,331]
       },
       {
         "id":2,
-        "username":"cheira",
-        "state":true,
-          "deck":[50,20,31,46,58]
+        "username":"Kowalski",
+          "deck":[733,289,233,658,77]
       },
       {
         "id":3,
-        "username":"escandon",
-        "state":true,
-          "deck":[10,20,30,40,50]
+        "username":"Cabo",
+          "deck":[286,138,83,236,459]
+      },
+      {
+        "id":4,
+        "username":"Rico",
+          "deck":[111,265,274,147,212]
+      },
+      {
+        "id":5,
+        "username":"Mort",
+          "deck":[445,465,660,748,293]
       }
     ]
    ,
